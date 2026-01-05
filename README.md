@@ -1,22 +1,25 @@
 # VtolVR-Skalou-HORNET
-Skalou mods for VtolVR
+Skalou's mods for VtolVR
 
-# This repository is for modding the VTOLVR game with a HORNET theme from the VTOL FORMATIONS.
-# Visit the [VTOL FORMATIONS Discord](https://discord.gg/8wzk3NcZ "VTOL FORMATIONS Discord link")
+# This repository is for modding the VTOLVR game with a HORNET theme from the VTOL FORMATIONS.  
+# Visit the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
 
 ----------------------------
 
 ## Installation
 
 - Download and install [UABEAvalonia](https://github.com/nesrak1/UABEA)
+- Download a [release](https://github.com/skalou/VtolVR-Skalou-HORNET/releases) and unzip it in a working folder.  
 - Save the original files that will be modified in VtolVR:  
  Inside the  VtolVR game install repository:  
+ >  ...\Steam\steamapps\common\VTOL VR\VTOLVR_Data  
  ...\Steam\steamapps\common\VTOL VR\VTOLVR_Data  
 	- save the file: "resources.assets" in a safe place.  
-If you mess with it, you can just delete it and verify the game install with the Steam tool. [verify the game install with the steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB)  
+ If you mess with it, you can just delete it and [verify the game install with the steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB)  
 - Just in case, your saved profile should be in:  
+ >   %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData  
  %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData  
- you can save it too if worried, but we won't touch it.
+ You can save it too if worried, but we won't touch it.
 
 ### Replace the needed files with UABEAvalonia:
 
@@ -33,7 +36,7 @@ If you mess with it, you can just delete it and verify the game install with the
 - On the new opened window, clic "Load", find the corresponding moded texture ("tex_bobbleHead-Hornets-XX.png" etc...) in the previously downloaded and unzipped folder (are you organized?)  
 - Clic "Save", it should close the "Texture Edit" window.    
 - Save: in the "Asset Info" window (not the "UABE" window) : File>Save As... (resources-HornetXX.assets if you are not inspired)  
-- Export the newly created file to the VtolVR install (inside ...\VTOL VR\VTOLVR_Data)  
+- Export the newly created file to the VtolVR game install (inside ...\VTOL VR\VTOLVR_Data)  
 - Delete the original "resources.assets"  (you previoulsly saved it in a safe place, right ?)
 - Rename your newly imported "resources-HornetXX.assets" into "resources.assets"  
 - So finally, if done correctly, there is only 1 "resources.assets" file with our moddified textures in it.  
