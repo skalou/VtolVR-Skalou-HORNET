@@ -9,23 +9,26 @@ Skalou's mods for VtolVR
 ## Installation
 
 - Download and install [UABEAvalonia](https://github.com/nesrak1/UABEA)
+
 - Download a [release](https://github.com/skalou/VtolVR-Skalou-HORNET/releases) and unzip it in a working folder.  
+  Select the "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")
+  
 - Save the original files that will be modified in VtolVR:  
  Inside the  VtolVR game install repository:  
 >  ...\Steam\steamapps\common\VTOL VR\VTOLVR_Data  
      
 - save the file: "resources.assets" in a safe place.  
- If you mess with it, you can just delete it and [verify the game install with the steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB)  
-- Just in case, your saved profile should be in:  
+ If you mess with it, you can just delete it and [verify the game install with the steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) 
+ 
+- Just in case if worried (but we won't touch it), your saved profile should be in:  
 >   %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData  
      
- You can save it too if worried, but we won't touch it.
-
+  
 ### Replace the needed files with UABEAvalonia:
 
 - Copy/Paste the original "resources.assets" in a working folder and rename into "resources-ORIGINAL.assets"
 
-- here is a short [Youtube tutorial](https://www.youtube.com/watch?v=BkkDR-95mR8)   
+- here is a short [Youtube tutorial](https://www.youtube.com/watch?v=BkkDR-95mR8) about an other Unity game, we will do the nearly the same.
 
 - Launch the program UABEAvalonia.exe  
 - File>Open , find the previously copied file "resources-ORIGINAL.assets" in your working folder.
