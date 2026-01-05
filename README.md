@@ -20,7 +20,7 @@ Skalou's mods for VtolVR
 - save the file: "resources.assets" in a safe place.  
  If you mess with it, you can just delete it and [verify the game install with the steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) 
  
-- Just in case if worried (but we won't touch it), your saved profile should be in:  
+- Just in case if worried, your saved profile should be in: (we won't touch it)   
 >   %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData  
      
   
@@ -33,7 +33,8 @@ Skalou's mods for VtolVR
 - Launch the program UABEAvalonia.exe  
 - File>Open , find the previously copied file "resources-ORIGINAL.assets" in your working folder.
 - In the new opened window "Asset Info" View>Filter, Deselect All, check "Texture2D"  
-- Search for the texture to be replaced: (clic on the "Name" column for alphabetical ordering for your mental health)  
+- Search for the texture to be replaced:  
+  Clic on the "Name" column for alphabetical ordering for your mental health  
 	- for the bobblehead: tex_bobbleHead  
 	- for the gloves: tex_newglove  
 	- etc...  	
