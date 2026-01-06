@@ -29,7 +29,7 @@ Skalou's mods for VtolVR
    Here you can change your suit colors with the Hornet settings:  
    [Discord-Flight Suit](https://discord.com/channels/1410252871433453684/1439421813640794244/1439421839137837057)  
 
-	   ```sh
+	```
 	suitColor = (0.1646613, 0.1646613, 0.1646613)  
 	
 	vestColor = (0.773757, 0.6258824, 0)  
@@ -37,11 +37,6 @@ Skalou's mods for VtolVR
 	gSuitColor = (0.773757, 0.6258824, 0)  
 	
 	strapsColor = (0.5186933, 0.5186933, 0.5186933)
-   ```
-   
-    ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
    ```
 
   NOTE!!!! Only put the Suit Color, Vest Color, gSuit Color, and Strap color on  to a Pilot you have already created in game.
