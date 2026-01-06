@@ -5,6 +5,7 @@ Skalou's mods for VtolVR
 # Visit the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
 
 ![Hornet-Bobblehead-presentation-02.png](/assets/images/Hornet-Bobblehead-presentation-02.png)
+
 ![Hornet-GLoves-presentation-02.png](/assets/images/Hornet-GLoves-presentation-02.png)
 ----------------------------
 
