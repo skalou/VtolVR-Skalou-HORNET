@@ -20,10 +20,10 @@ Skalou's mods for VtolVR
  Inside the  VtolVR game install repository:  
 >  ...\Steam\steamapps\common\VTOL VR\VTOLVR_Data  
      
-- save the file: "resources.assets" in a safe place.  
+	- save the file: "resources.assets" in a safe place.  
  If you mess with it, you can just delete it and [verify the game install with the steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) 
  
-- Just in case if worried, your saved profile should be in: (we won't touch it)   
+	- Just in case if worried, your saved profile should be in: (we won't touch it)   
 >   %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData  
      
   
