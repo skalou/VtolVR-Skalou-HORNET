@@ -34,9 +34,9 @@ Skalou's mods for VtolVR
 	vestColor = (0.773757, 0.6258824, 0)  
 	gSuitColor = (0.773757, 0.6258824, 0)  
 	strapsColor = (0.5186933, 0.5186933, 0.5186933)
-   ```
-
-  [!NOTE] Only put the Suit Color, Vest Color, gSuit Color, and Strap color on  to a Pilot you have already created in game.
+   ``` 
+	> [!NOTE]
+	> Only put the Suit Color, Vest Color, gSuit Color, and Strap color on  to a Pilot you have already created in game.
   
 ### Replace the needed files with UABEAvalonia:
 
