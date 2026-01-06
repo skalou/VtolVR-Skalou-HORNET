@@ -38,6 +38,11 @@ Skalou's mods for VtolVR
 	
 	strapsColor = (0.5186933, 0.5186933, 0.5186933)
    ```
+   
+    ```sh
+   git remote set-url origin github_username/repo_name
+   git remote -v # confirm the changes
+   ```
 
   NOTE!!!! Only put the Suit Color, Vest Color, gSuit Color, and Strap color on  to a Pilot you have already created in game.
   
