@@ -19,20 +19,19 @@ Skalou's mods for VtolVR
   
  - **Save the original files that will be modified in VtolVR:**  
   Inside the  VtolVR game install repository:  
-   ```...\Steam\steamapps\common\VTOL VR\VTOLVR_Data```
+   ```
+   ...\Steam\steamapps\common\VTOL VR\VTOLVR_Data
+   ```
 	- save the file "resources.assets" in a safe place.  
   
 	If you mess with it, you can also just delete it and [verify the game install with the Steam tool.](https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB) 
  
 - **Just in case if worried, your saved profile, should be in:**  
-
    ```
    %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData
-   ```
-   
-   You can save these files, but here you can also change your suit colors with the HORNET settings:  
+   ```    
+   You can save these files, but here you can also edit your suit colors with the HORNET settings in "pilots.cfg":  
    [Discord-Flight Suit](https://discord.com/channels/1410252871433453684/1439421813640794244/1439421839137837057)  
-
 	```
 	suitColor = (0.1646613, 0.1646613, 0.1646613)  	
 	vestColor = (0.773757, 0.6258824, 0)  
