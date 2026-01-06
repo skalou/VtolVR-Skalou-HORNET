@@ -18,9 +18,9 @@ Skalou's mods for VtolVR
   Select a "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")  
   
  - **Save the original files that will be modified in VtolVR:**  
-  Inside the  VtolVR game install repository:  
+  Inside the  VtolVR game install repository , by default:  
    ```
-   ...\Steam\steamapps\common\VTOL VR\VTOLVR_Data
+   C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\Screenshots
    ```
 	- save the file "resources.assets" in a safe place.  
   
