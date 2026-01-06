@@ -30,7 +30,7 @@ Skalou's mods for VtolVR
 
 - Copy/Paste the original "resources.assets" in a working folder and rename into "resources-ORIGINAL.assets"
 
-- here is a short [Youtube tutorial](https://www.youtube.com/watch?v=BkkDR-95mR8) about an other Unity game, we will do nearly the same.
+- here is a short [Youtube tutorial](https://youtu.be/BkkDR-95mR8?si=RCD3OP57SUt8dht7) about an other Unity game, we will do nearly the same.
 
 - Launch the program UABEAvalonia.exe  
 - File>Open , find the previously copied file "resources-ORIGINAL.assets" in your working folder.
