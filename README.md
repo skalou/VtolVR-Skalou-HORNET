@@ -12,8 +12,8 @@ Skalou's mods for VtolVR
 
 ## Installation
 
-- Download and install [UABEAvalonia](https://github.com/nesrak1/UABEA)
-[A Youtube tutorial for installing UABEAvalonia](https://youtu.be/FZ0XPDhJv74?si=BdtxaVw1L_DBBAVi)
+- Download and install [UABEAvalonia](https://github.com/nesrak1/UABEA)  
+[A Youtube tutorial for installing UABEAvalonia](https://youtu.be/FZ0XPDhJv74?si=BdtxaVw1L_DBBAVi)  
 
 - Download a [release](https://github.com/skalou/VtolVR-Skalou-HORNET/releases) of this mod and unzip it in a working folder.  
   Select a "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")  
