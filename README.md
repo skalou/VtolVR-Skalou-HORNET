@@ -4,6 +4,10 @@ Skalou's mods for VtolVR
 # This repository is for modding the VTOLVR game with a HORNET theme from the VTOL FORMATIONS.  
 # Visit the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Hornet-Bobblehead-presentation-01.](/assets/images/Hornet-Bobblehead-presentation-01.png)
+![Hornet-GLoves-presentation-01.png.](/assets/images/Hornet-GLoves-presentation-01.png)
 ----------------------------
 
 ## Installation
