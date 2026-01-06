@@ -13,6 +13,7 @@ Skalou's mods for VtolVR
 ## Installation
 
 - Download and install [UABEAvalonia](https://github.com/nesrak1/UABEA)
+[A Youtube tutorial for installing UABEAvalonia](https://youtu.be/FZ0XPDhJv74?si=BdtxaVw1L_DBBAVi)
 
 - Download a [release](https://github.com/skalou/VtolVR-Skalou-HORNET/releases) of this mod and unzip it in a working folder.  
   Select a "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")  
@@ -80,7 +81,7 @@ A special thanks to all these people for their help.
 - My mum
 - You,  
   you can download the ressources from this Github,
-  there are saved textures in .pnd format with layers for [PAINT.NET](https://www.getpaint.net/) and also an exported version for photoshop .psd (I don't have it),  
+  there are saved textures in .pnd format with layers for [PAINT.NET](https://www.getpaint.net/) and also an exported version for Photoshop .psd (I don't have it),  
   modify as you will. 
   
   
