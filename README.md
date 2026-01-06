@@ -20,7 +20,7 @@ Skalou's mods for VtolVR
  - **Save the original files that will be modified in VtolVR:**  
   Inside the  VtolVR game install repository , by default:  
    ```
-   C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\Screenshots
+   C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\VTOLVR_Data
    ```
 	- save the file "resources.assets" in a safe place.  
   
