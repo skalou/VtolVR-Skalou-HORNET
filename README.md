@@ -54,7 +54,7 @@ Skalou's mods for VtolVR
 
 A special thanks to all these people for their help.
 - The people I read modding about and spent too many time on it.
--The VtolVR creators
+- The VtolVR creators
 - The Hornet's passionate, including the Guru Jeff
 - Me
 - My mum
