@@ -72,6 +72,12 @@ Skalou's mods for VtolVR
 - So finally, if done correctly, in the "VTOLVR_Data" game folder, there is only 1 "resources.assets" file with our modified textures in it.  
 - You can launch the game, enjoy, and send us a picture on the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
 
+   
+> [!NOTE]  
+> For now, only the base game aircraft are affected and the T-55, not the DLC (EF-24G and AH94),
+> maybe doable in modifying the DLC files, but i haven't tried.
+  
+
 ## Contributors
 
 A special thanks to all these people for their help.
