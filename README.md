@@ -1,5 +1,4 @@
-# VtolVR-Skalou-HORNET
-Skalou's mods for VtolVR
+# VtolVR-HORNET-Skalou
 
 # This repository is for modding the VTOLVR game with a HORNET theme from the VTOL FORMATIONS.  
 # Visit the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
