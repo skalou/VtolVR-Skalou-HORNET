@@ -62,8 +62,6 @@
 
 - Copy/Paste the original "resources.assets" in a working folder and rename into "resources-ORIGINAL.assets"
 
-- Here is a short [Youtube tutorial](https://youtu.be/BkkDR-95mR8?si=RCD3OP57SUt8dht7) about an other Unity game, we will do nearly the same.
-
 - List of modified objects:
 
 | Obeject  | asset file | type |  name |
@@ -71,6 +69,9 @@
 | Blobblehead  | resources.assets  | Texture2D  | tex_bobbleHead  |  
 | Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  |
 
+-### Exemple with the bobblehead:  
+
+- Here is a short [Youtube tutorial](https://youtu.be/BkkDR-95mR8?si=RCD3OP57SUt8dht7) about an other Unity game, we will do nearly the same.  
 - Launch the program UABEAvalonia.exe  
 - File>Open , find the previously copied file "resources-ORIGINAL.assets" in your working folder.
 - In the new opened window "Asset Info" View>Filter, Deselect All, check "Texture2D"  
@@ -89,7 +90,7 @@
    
 > [!NOTE]  
 > For now, only the base game aircrafts and the T-55 are affected for the Bobblehead, not the DLC (EF-24G and AH94),
-> maybe doable in modifying the DLC files, but I haven't tried.
+> maybe doable by modifying the DLC files, but I haven't tried.
   
 
 ## Contributors
