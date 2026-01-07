@@ -38,7 +38,8 @@
   In the profile folder: 
    ```
    %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData
-   ```  
+   ``` 
+   
    You can edit your suit colors with the HORNET settings in the file "pilots.cfg":   
    [Discord-Flight Suit](https://discord.com/channels/1410252871433453684/1439421813640794244/1439421839137837057)  
 
