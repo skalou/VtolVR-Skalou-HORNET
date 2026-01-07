@@ -76,12 +76,12 @@
 | Gloves  | resources.assets  | tex_newglove , tex_newglove_spec (if needed)  |
  	
 - Clic on the needed texture to be replaced, then clic "Plugins/Edit Texture/OK"  
-- On the new opened window, clic "Load", find the corresponding moded texture ("tex_bobbleHead-Hornets-XX.png" etc...) in the previously downloaded and unzipped folder (are you organized?)  
-- Clic "Save", it should close the "Texture Edit" window.    
-- Save: in the "Asset Info" window (not the "UABE" window) : File>Save As... (resources-HornetXX.assets if you are not inspired)  
+- On the new opened window, clic "Load", find the corresponding moded texture ("tex_bobbleHead-Hornet-Skalou-vX.Y.Z.png" etc...) in the previously downloaded and unzipped folder (are you organized?)  
+- Clic "Save", it should close the "Texture Edit" window.  
+- Save: in the "Asset Info" window (not the "UABE" window) : File>Save As... (resources-Hornet-XX.assets if you are not inspired)  
 - Export the newly created file to the VtolVR game install (inside ...\VTOL VR\VTOLVR_Data)  
-- Delete the original "resources.assets"  (you previoulsly saved it in a safe place, right ?)
-- Rename your newly imported "resources-HornetXX.assets" into "resources.assets"  
+- Delete the original "resources.assets"  (you previoulsly saved it in a safe place, right ?)  
+- Rename your newly imported "resources-Hornet-XX.assets" into "resources.assets"  
 - So finally, if done correctly, in the "VTOLVR_Data" game folder, there is only 1 "resources.assets" file with our modified textures in it.  
 - You can launch the game, enjoy, and send us a picture on the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
 
