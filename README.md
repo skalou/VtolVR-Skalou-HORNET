@@ -3,9 +3,9 @@
 # This repository is for modding the VTOLVR game with a HORNET theme from the VTOL FORMATIONS.  
 # Visit the [VTOL FORMATIONS Discord](https://discord.com/invite/VTOLFormations "VTOL FORMATIONS Discord link")  
 
-![Hornet-FlightSuit-presentation-01.png](/assets/images/Hornet-FlightSuit-presentation-01.png)
-
 ![HORNET_3.png](/assets/images/HORNET_3.png)
+
+![Hornet-FlightSuit-presentation-01.png](/assets/images/Hornet-FlightSuit-presentation-01.png)
 
 ![Hornet-Bobblehead-presentation-02.png](/assets/images/Hornet-Bobblehead-presentation-02.png) ![Hornet-GLoves-presentation-02.png](/assets/images/Hornet-GLoves-presentation-02.png)
 
