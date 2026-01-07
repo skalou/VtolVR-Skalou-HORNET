@@ -74,8 +74,8 @@ Skalou's mods for VtolVR
 
    
 > [!NOTE]  
-> For now, only the base game aircraft are affected and the T-55, not the DLC (EF-24G and AH94),
-> maybe doable in modifying the DLC files, but i haven't tried.
+> For now, only the base game aircrafts are affected and the T-55, not the DLC (EF-24G and AH94),
+> maybe doable in modifying the DLC files, but I haven't tried.
   
 
 ## Contributors
