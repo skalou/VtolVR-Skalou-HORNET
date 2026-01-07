@@ -11,7 +11,7 @@
 
 ## Installation
 
-- Download [UABEAvalonia](https://github.com/nesrak1/UABEA) 
+- Download [UABEAvalonia](https://github.com/nesrak1/UABEA)  
   Here is the [releases page](https://github.com/nesrak1/UABEA/releases)  
   if not sure, you probably need "uabea-windows.zip" and the requirements.  
 - Unzip it somewhere in a working folder.   
