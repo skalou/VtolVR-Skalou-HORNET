@@ -40,18 +40,19 @@
    %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData
    ``` 
    
-   You can edit your suit colors with the HORNET settings in the file "pilots.cfg":   
-   [Discord-Flight Suit](https://discord.com/channels/1410252871433453684/1439421813640794244/1439421839137837057)  
-
+   You can edit your suit colors with the HORNET settings in the file "pilots.cfg":
+		
+	[Discord-Flight Suit](https://discord.com/channels/1410252871433453684/1439421813640794244/1439421839137837057)  
+   
 	```
 	suitColor = (0.1646613, 0.1646613, 0.1646613)  	
 	vestColor = (0.773757, 0.6258824, 0)  
 	gSuitColor = (0.773757, 0.6258824, 0)  
 	strapsColor = (0.5186933, 0.5186933, 0.5186933)  
    ```  
-   
-[Here's a quick video on where to put the values above](https://www.youtube.com/watch?v=eVjFoAYreAY)
-   
+	
+	[Here's a quick video on where to put the values above](https://www.youtube.com/watch?v=eVjFoAYreAY)
+	
 > [!NOTE]  
 > Only put the Suit Color, Vest Color, gSuit Color, and Strap color on  to a Pilot you have already created in game.
   
