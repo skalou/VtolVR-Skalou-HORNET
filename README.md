@@ -35,10 +35,10 @@
    
 ### Flight suit colors:
    
-  In the profile folder: 
+- In the profile folder: 
    ```
    %userprofile%\AppData\Roaming\Boundless Dynamics, LLC\VTOLVR\SaveData
-   ``` 
+   ```
    
    You can edit your suit colors with the HORNET settings in the file "pilots.cfg":
 		
@@ -49,9 +49,9 @@
 	vestColor = (0.773757, 0.6258824, 0)  
 	gSuitColor = (0.773757, 0.6258824, 0)  
 	strapsColor = (0.5186933, 0.5186933, 0.5186933)  
-   ```  
+   ```
 	
-	[Here's a quick video on where to put the values above](https://www.youtube.com/watch?v=eVjFoAYreAY)
+ [Here's a quick video on where to put the values above](https://www.youtube.com/watch?v=eVjFoAYreAY)
 	
 > [!NOTE]  
 > Only put the Suit Color, Vest Color, gSuit Color, and Strap color on  to a Pilot you have already created in game.
