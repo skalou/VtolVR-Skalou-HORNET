@@ -60,8 +60,6 @@
 
 - The goal is to replace some textures inside the "resources.assets" file.  
 
-- Copy/Paste the original "resources.assets" in a working folder and rename into "resources-ORIGINAL.assets"
-
 - List of modified objects:
 
 | Obeject  | Asset file | Type |  Name |
@@ -72,6 +70,7 @@
 ### Exemple with the bobblehead:  
 
 - Here is a short [Youtube tutorial](https://youtu.be/BkkDR-95mR8?si=RCD3OP57SUt8dht7) about an other Unity game, we will do nearly the same.  
+- Copy/Paste the original "resources.assets" in a working folder and rename into "resources-ORIGINAL.assets"  
 - Launch the program UABEAvalonia.exe  
 - File>Open , find the previously copied file "resources-ORIGINAL.assets" in your working folder.
 - In the new opened window "Asset Info" View>Filter, Deselect All, check "Texture2D"  
