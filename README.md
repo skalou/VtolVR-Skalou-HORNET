@@ -68,16 +68,12 @@
 - File>Open , find the previously copied file "resources-ORIGINAL.assets" in your working folder.
 - In the new opened window "Asset Info" View>Filter, Deselect All, check "Texture2D"  
 - Search for the texture to be replaced:  
-  Clic on the "Name" column for alphabetical ordering for your mental health  
-	- for the bobblehead: tex_bobbleHead  
-	- for the gloves: tex_newglove  
-	- etc... 
-
+  Clic on the "Name" column for alphabetical ordering for easier search
 
 | Obeject  | asset file | texture name |
 | ------------- | ------------- | ------------- |
 | Blobblehead  | resources.assets  | tex_bobbleHead  |
-| Gloves  | resources.assets  | tex_newglove  |
+| Gloves  | resources.assets  | tex_newglove , tex_newglove_spec (if needed)  |
  	
 - Clic on the needed texture to be replaced, then clic "Plugins/Edit Texture/OK"  
 - On the new opened window, clic "Load", find the corresponding moded texture ("tex_bobbleHead-Hornets-XX.png" etc...) in the previously downloaded and unzipped folder (are you organized?)  
