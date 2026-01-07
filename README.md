@@ -64,11 +64,10 @@
 
 - List of modified objects:
 
-| Obeject  | asset file | type |  name |
+| Obeject  | Asset file | Type |  Name |
 | ------------- | ------------- | ------------- | ------------- |
 | Blobblehead  | resources.assets  | Texture2D  | tex_bobbleHead  |  
-| Gloves  | resources.assets  | Texture2D  | tex_newglove  
-tex_newglove_spec (if needed)  |
+| Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  |
 
 -### Exemple with the bobblehead:  
 
