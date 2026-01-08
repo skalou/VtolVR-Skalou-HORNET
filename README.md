@@ -9,7 +9,7 @@
 
 ![Hornet-Bobblehead-presentation-02.png](/assets/images/Hornet-Bobblehead-presentation-02.png) ![Hornet-GLoves-presentation-02.png](/assets/images/Hornet-GLoves-presentation-02.png)
 
-![Hornet-Helmet-theGh0st-presentation-01.png](/assets/images/Hornet-Helmet-theGh0st-presentation-01.png)
+![Hornet-Helmet-theGh0st-presentation-02.png](/assets/images/Hornet-Helmet-theGh0st-presentation-02.png)
 
 ----------------------------
 
