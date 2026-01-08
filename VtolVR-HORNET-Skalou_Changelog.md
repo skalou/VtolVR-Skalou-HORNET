@@ -1,5 +1,8 @@
 VtolVR-HORNET-Skalou
 
+## v1.1.0 (2026-01-08)
+-Add Helmet. Thank's @theGh0st
+
 ## v1.0.2 (2026-01-08)
 -Change texture name organisation
 
