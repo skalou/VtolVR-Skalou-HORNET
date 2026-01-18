@@ -65,7 +65,7 @@
   
 ### Replace the needed files with UABEAvalonia:  
 
-### Using a UABE mod package installer (NEW way):  
+### Using a UABE EMIP mod package installer (NEW way):  
 A new easier way than manually changing each file is to use a UABE Avalonia mod package installer (the .emip file in the download).  
 
 - Launch the program UABEAvalonia.exe  
@@ -87,6 +87,8 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 - You can close all the UABE windows and launch the game.  
 
 ### Manual method (OLD way):
+
+- YOU DON'T NEED TO USE THIS IF YOU ALREADY INSTALLED WITH THE NEW "UABE EMIP MOD PACKAGE INSTALLER" METHOD DESCRIBED ABOVE.  
 
 - The goal is to replace some textures inside the "resources.assets" file.  
 
