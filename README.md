@@ -71,20 +71,20 @@ A new easier way than manually changing each file is to use a UABE Avalonia mod 
 - Launch the program UABEAvalonia.exe  
 
 ![EMIP-install-01.png](/assets/images/EMIP-install-01.png)  
-File>Load Package File, find and select a VtolVR-HORNET-Skalou-v.X.Y.Z.emip previously downloaded >Open  
+- File>Load Package File, find and select a VtolVR-HORNET-Skalou-EMIP-v.X.Y.Z.emip file previously downloaded >Open  
 
 ![EMIP-install-02.1.png](/assets/images/EMIP-install-02.1.png)  
-A new "Load Package" UABE windows open, double-click on the wanted selected changes, it should be marked as "(selected)".
+- A new "Load Package" UABE windows open, double-click on the wanted selected changes, it should be marked as "(selected)".  
 Select the Base Folder, it's your VtolVR game install directory, by default:  
    ```
    C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\VTOLVR_Data
-   ```
+   ```  
    
 ![EMIP-install-03.png](/assets/images/EMIP-install-03.png)   
-The UABE program hang for a few seconds, then should open a new windows "Asset Info" windows.  
->File>Save
-The UABE program hang again for a few seconds for the time to apply the changes but don't tell you when it's finished,
-You can close all the UABE windows and launch the game.
+- The UABE program hang for a few seconds, then should open a new windows "Asset Info" windows.  
+>File>Save  
+The UABE program hang again for a few seconds for the time to apply the changes but don't tell you when it's finished.  
+- You can close all the UABE windows and launch the game.  
 
 ### Manual method (OLD way):
 
