@@ -1,6 +1,9 @@
 VtolVR-HORNET-Skalou
 
 ## v1.2.1 (2026-01-18)
+-Add F45 Helmet. Thank's @theGh0st, @Mankite
+
+## v1.2.1 (2026-01-18)
 -New install method using UABE EMIP mod package installer
 
 ## v1.1.0 (2026-01-08)
