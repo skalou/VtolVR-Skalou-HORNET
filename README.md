@@ -89,6 +89,7 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 ### Manual method (OLD way):
 
 - YOU DON'T NEED TO USE THIS IF YOU ALREADY INSTALLED WITH THE NEW "UABE EMIP MOD PACKAGE INSTALLER" METHOD DESCRIBED ABOVE.  
+- It's harder than the EMIP method, but you can mix the changed files as you want, for exemple use the Hornet base theme but with a custom helmet.  
 
 - Insted of dowloading a "VtolVR-Skalou-HORNET-v.X.Y.Z.zip",  
   Download a  Source code (zip) (2nd link) in the [release](https://github.com/skalou/VtolVR-HORNET-Skalou/releases) page.  
