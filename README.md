@@ -80,7 +80,7 @@ If you want more control on the changed files or mix some, look at the Manual me
 - A new "Load Package" UABE windows open, double-click on the wanted selected changes, it should be marked as "(selected)".  
 Select the Base Folder, it's your VtolVR game install directory, by default:  
    ```
-   C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\VTOLVR_Data
+   C:\Program Files (x86)\Steam\steamapps\common\VTOL VR
    ```  
 		
 ![EMIP-install-03.png](/assets/images/EMIP-install-03.png)   
