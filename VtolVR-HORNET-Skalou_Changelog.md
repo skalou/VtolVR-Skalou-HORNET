@@ -1,5 +1,8 @@
 VtolVR-HORNET-Skalou
 
+## v1.2.1 (2026-01-18)
+-New insatallation method using UABE EMIP mod package installer
+
 ## v1.1.0 (2026-01-08)
 -Add Helmet. Thank's @theGh0st
 
