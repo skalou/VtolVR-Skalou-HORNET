@@ -79,7 +79,7 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
    ```
    C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\VTOLVR_Data
    ```  
-   
+		
 ![EMIP-install-03.png](/assets/images/EMIP-install-03.png)   
 - The UABE program hang for a few seconds, then should open a new windows "Asset Info" windows.  
 >File>Save  
