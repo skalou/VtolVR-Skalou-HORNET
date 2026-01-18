@@ -22,8 +22,8 @@
 - Unzip it somewhere in a working folder.   
 [A Youtube tutorial about UABEAvalonia](https://youtu.be/FZ0XPDhJv74?si=BdtxaVw1L_DBBAVi)  
 
-- Download a [release](https://github.com/skalou/VtolVR-Skalou-HORNET/releases) of this mod and unzip it in a working folder.  
-  Select a "VtolVR-Skalou-HORNET-v.X.X.X.zip" (not the "Source code")  
+- Download a [release](https://github.com/skalou/VtolVR-HORNET-Skalou/releases) of this mod and unzip it in a working folder.  
+  Select a "VtolVR-Skalou-HORNET-v.X.Y.Z.zip" (not the "Source code")  
   
  - **Save the original files that will be modified in VtolVR:**  
   Inside the  VtolVR game install repository, by default:  
@@ -89,6 +89,9 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 ### Manual method (OLD way):
 
 - YOU DON'T NEED TO USE THIS IF YOU ALREADY INSTALLED WITH THE NEW "UABE EMIP MOD PACKAGE INSTALLER" METHOD DESCRIBED ABOVE.  
+
+- Insted of dowloading a "VtolVR-Skalou-HORNET-v.X.Y.Z.zip",  
+  Download a  Source code (zip) (2nd link) in the [release](https://github.com/skalou/VtolVR-HORNET-Skalou/releases) page.  
 
 - The goal is to replace some textures inside the "resources.assets" file.  
 
