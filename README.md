@@ -17,8 +17,16 @@
 
 ## Installation
 
-- Download [UABEAvalonia](https://github.com/nesrak1/UABEA)  
-  Here is the [releases page](https://github.com/nesrak1/UABEA/releases) with the download link.  
+- Download [UABEAvalonia](https://github.com/nesrak1/UABEA) (DO NOT DOWNLOAD FROM THIS PAGE) 
+  Here is the [releases page](https://github.com/nesrak1/UABEA/releases) with the download links.  
+  
+  ![UABEA-install-01.png](/assets/images/UABEA-install-01.png)
+  
+- You should download:  
+   uabea-windows.zip (the number 1 with the yellow arrow)  
+   and maybe the requirements (2) and (3), if your computer already don't have it.  
+   You can try without them and see what happens when launching the program.  
+
   It's a tool needed to replace some files in the game.  
   If not sure, you probably need "uabea-windows.zip" and the requirements.  
 - Unzip it somewhere in a working folder.   
