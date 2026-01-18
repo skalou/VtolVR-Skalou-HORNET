@@ -11,6 +11,8 @@
 
 ![Hornet-Helmet-theGh0st-presentation-02.png](/assets/images/Hornet-Helmet-theGh0st-presentation-02.png)
 
+![Hornet-HelmetF45-Mankite-presentation-01.png](/assets/images/Hornet-HelmetF45-Mankite-presentation-01.png)
+  
 ----------------------------
 
 ## Installation
