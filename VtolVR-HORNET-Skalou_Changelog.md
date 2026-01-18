@@ -1,6 +1,6 @@
 VtolVR-HORNET-Skalou
 
-## v1.2.1 (2026-01-18)
+## v1.3.0 (2026-01-18)
 -Add F45 Helmet. Thank's @theGh0st, @Mankite
 
 ## v1.2.1 (2026-01-18)
