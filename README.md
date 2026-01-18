@@ -99,11 +99,12 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 
 - List of modified objects:
 
-| Object  | Asset file | Type |  Name |
-| ------------- | ------------- | ------------- | ------------- |
-| BobbleHead  | resources.assets  | Texture2D  | tex_bobbleHead  |  
-| Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  |
-| Helmet (basic) | resources.assets  | Texture2D  | hqh_dif  |
+| Object  | Asset file | Type |  Name |  Path ID |  
+| ------------- | ------------- | ------------- | ------------- | ------------- |  
+| BobbleHead  | resources.assets  | Texture2D  | tex_bobbleHead  | 1167 |  
+| Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  | 1223, 1074  |  
+| Helmet-Basic | resources.assets  | Texture2D  | hqh_dif  | 745  |  
+| Helmet-F45 | resources.assets  | Texture2D  | tex_f45Helmet  | 974  |  
 
 ### Example with the bobblehead:  
 
