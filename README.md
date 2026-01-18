@@ -136,6 +136,7 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 ## Contributors
 
 A special thanks to all these people for their help.
+- Contributors: @theGh0st, @mankite
 - The people I read modding about and spent too many time on it.
 - The VtolVR creators
 - The Hornet's passionate, including the Guru Jeff
