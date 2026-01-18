@@ -82,8 +82,8 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 		
 ![EMIP-install-03.png](/assets/images/EMIP-install-03.png)   
 - The UABE program hang for a few seconds, then should open a new windows "Asset Info" windows.  
->File>Save  
-The UABE program hang again for a few seconds for the time to apply the changes but don't tell you when it's finished.  
+  File>Save  
+  The UABE program hang again for a few seconds for the time to apply the changes but don't tell you when it's finished.  
 - You can close all the UABE windows and launch the game.  
 
 ### Manual method (OLD way):
