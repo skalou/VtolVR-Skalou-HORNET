@@ -67,6 +67,7 @@
 
 ### Using a UABE EMIP mod package installer (NEW way):  
 A new easier way than manually changing each file is to use a UABE Avalonia mod package installer (the .emip file in the download).  
+If you want more control on the changed files or mix some, look at the Manual method (OLD way).  
 
 - Launch the program UABEAvalonia.exe  
 
@@ -98,11 +99,11 @@ Select the Base Folder, it's your VtolVR game install directory, by default:
 
 - List of modified objects:
 
-| Obeject  | Asset file | Type |  Name |
+| Object  | Asset file | Type |  Name |
 | ------------- | ------------- | ------------- | ------------- |
 | BobbleHead  | resources.assets  | Texture2D  | tex_bobbleHead  |  
 | Gloves  | resources.assets  | Texture2D  | tex_newglove , tex_newglove_spec (if needed)  |
-| Helmet | resources.assets  | Texture2D  | hqh_dif  |
+| Helmet (basic) | resources.assets  | Texture2D  | hqh_dif  |
 
 ### Example with the bobblehead:  
 
