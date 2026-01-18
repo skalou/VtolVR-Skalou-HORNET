@@ -17,7 +17,7 @@
 
 ## Installation
 
-- Download [UABEAvalonia](https://github.com/nesrak1/UABEA) (DO NOT DOWNLOAD FROM THIS PAGE) 
+- Download [UABEAvalonia](https://github.com/nesrak1/UABEA) (DO NOT DOWNLOAD FROM THIS PAGE)   
   Here is the [releases page](https://github.com/nesrak1/UABEA/releases) with the download links.  
   
   ![UABEA-install-01.png](/assets/images/UABEA-install-01.png)
