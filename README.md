@@ -27,6 +27,9 @@
    and maybe the requirements (2) and (3), if your computer already don't have it.  
    You can try without them and see what happens when launching the program.  
 
+typicaly, you would need the x64 version of the .NET Desktop Runtime :  
+![UABEA-NET6-install-01](/assets/images/UABEA-NET6-install-01.png)
+
   It's a tool needed to replace some files in the game.  
   If not sure, you probably need "uabea-windows.zip" and the requirements.  
 - Unzip it somewhere in a working folder.   
