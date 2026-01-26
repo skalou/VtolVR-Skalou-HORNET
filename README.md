@@ -17,21 +17,18 @@
 
 ## Installation
 
-- Download [UABEAvalonia](https://github.com/nesrak1/UABEA) (DO NOT DOWNLOAD FROM THIS PAGE)   
+- Tool needed to replace some files: [UABEAvalonia](https://github.com/nesrak1/UABEA) (DO NOT DOWNLOAD FROM THIS PAGE)   
   Here is the [releases page](https://github.com/nesrak1/UABEA/releases) with the download links.  
   
   ![UABEA-install-01.png](/assets/images/UABEA-install-01.png)
   
-- You should download:  
-   uabea-windows.zip (the number 1 with the yellow arrow)  
-   and maybe the requirements (2) and (3), if your computer already don't have it.  
-   You can try without them and see what happens when launching the program.  
-
-typicaly, you would need the x64 version of the .NET Desktop Runtime :  
+- If not sure, you probably need "uabea-windows.zip" (the number 1 with the yellow arrow).  
+	
+  and maybe the requirements (2) and (3), if your computer does't already have it,  
+  You can try without the requirements and see what happens when launching the program.  
+  Typically, you would need the x64 version of the .NET Desktop Runtime :  
 ![UABEA-NET6-install-01](/assets/images/UABEA-NET6-install-01.png)
-
-  It's a tool needed to replace some files in the game.  
-  If not sure, you probably need "uabea-windows.zip" and the requirements.  
+ 
 - Unzip it somewhere in a working folder.   
 [A Youtube tutorial about UABEAvalonia](https://youtu.be/FZ0XPDhJv74?si=BdtxaVw1L_DBBAVi)  
 
