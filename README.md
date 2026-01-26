@@ -29,7 +29,7 @@
     
 ![UABEA-NET6-install-01](/assets/images/UABEA-NET6-install-01.png)
  
-- Unzip it somewhere in a working folder.   
+- Unzip UABEAvalonia somewhere in a working folder.   
 [A Youtube tutorial about UABEAvalonia](https://youtu.be/FZ0XPDhJv74?si=BdtxaVw1L_DBBAVi)  
 
 - Download a [release](https://github.com/skalou/VtolVR-HORNET-Skalou/releases) of this mod and unzip it in a working folder.  
