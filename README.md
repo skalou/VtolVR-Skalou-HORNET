@@ -25,7 +25,8 @@
 - If not sure, you probably need "uabea-windows.zip" (the number 1 with the yellow arrow),  
   and maybe the requirements (2) and (3), if your computer does't already have it,  
   You can try without the requirements and see what happens when launching the program.  
-  Typically, you would need the x64 version of the .NET Desktop Runtime :  
+  Typically, you would need the x64 version of the .NET Desktop Runtime :
+    
 ![UABEA-NET6-install-01](/assets/images/UABEA-NET6-install-01.png)
  
 - Unzip it somewhere in a working folder.   
